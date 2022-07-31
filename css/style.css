@@ -1,0 +1,12 @@
+.header-bg {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/header-bg.jpg) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-blend-mode: darken !important;
+    
+}
+
+.red-logo {
+    color: #C62C45 !important;
+}
